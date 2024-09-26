@@ -38,3 +38,9 @@ Contributions are welcome! Follow these steps:
 - Commit your changes (git commit -m 'Add feature').
 - Push to the branch (git push origin feature-branch).
 - Open a pull request.
+
+OR 
+- Clone this Repository
+``` bash
+ git clone https://github.com/Vedant478/MySQL-CheatCode.git
+```
